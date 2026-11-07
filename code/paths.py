@@ -12,3 +12,4 @@ MODEL_FILE = MODELS_DIR / "xgboost_pipeline.pkl"
 MODEL_METADATA_FILE = MODELS_DIR / "xgboost_metadata.json"
 
 RAW_DATA_FILE = DATA_DIR / "default_of_credit_card_clients.xls"
+DATA_FILE = DATA_DIR / "default_of_credit_card_clients.csv"
